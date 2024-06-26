@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Prenotazione)",
+            "request": "launch",
+            "mainClass": "EX1.Prenotazione",
+            "projectName": "your-project"
+        }
+    ]
+}
