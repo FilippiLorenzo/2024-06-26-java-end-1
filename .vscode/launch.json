@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ex3",
+            "request": "launch",
+            "mainClass": "EX3.Ex3",
+            "projectName": "2024-06-26-java-end-1_7d42c73c"
+        },
+        {
+            "type": "java",
             "name": "Ex2",
             "request": "launch",
             "mainClass": "EX2.Ex2",
