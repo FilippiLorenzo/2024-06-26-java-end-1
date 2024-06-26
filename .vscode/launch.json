@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ex5",
+            "request": "launch",
+            "mainClass": "EX5.Ex5",
+            "projectName": "2024-06-26-java-end-1_7d42c73c"
+        },
+        {
+            "type": "java",
             "name": "Ex4",
             "request": "launch",
             "mainClass": "EX4.Ex4",
