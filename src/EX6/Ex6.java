@@ -32,21 +32,21 @@ package EX6;
             hotel.effettuaPrenotazione(cliente1);
             hotel.effettuaPrenotazione(cliente2);
 
-            // Stampa delle prenotazioni
+           
             System.out.println("Prenotazioni iniziali:");
             hotel.stampaPrenotazioni();
 
-            // Modifica della prenotazione
+            
             System.out.println("\nModifica della prenotazione di Alice:");
             hotel.modificaPrenotazione(cliente1);
             hotel.stampaPrenotazioni();
 
-            // Cancellazione della prenotazione
+            
             System.out.println("\nCancellazione della prenotazione di Bob:");
             hotel.cancellaPrenotazione(cliente2);
             hotel.stampaPrenotazioni();
 
-            // Effettuare un'altra prenotazione
+            
             System.out.println("\nPrenotazione per Charlie:");
             hotel.effettuaPrenotazione(cliente3);
             hotel.stampaPrenotazioni();
