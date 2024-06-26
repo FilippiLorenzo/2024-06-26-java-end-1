@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ex2",
+            "request": "launch",
+            "mainClass": "EX2.Ex2",
+            "projectName": "2024-06-26-java-end-1_7d42c73c"
+        },
+        {
+            "type": "java",
             "name": "Debug (Prenotazione)",
             "request": "launch",
             "mainClass": "EX1.Prenotazione",
